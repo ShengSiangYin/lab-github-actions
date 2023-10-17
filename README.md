@@ -1,6 +1,7 @@
 # lab-github-actions
 
 [![Build Status](https://github.com/ShengSiangYin/lab-github-actions/actions/workflows/workflow.yml/badge.svg)](https://github.com/ShengSiangYin/lab-github-actions/actions)
+[![codecov](https://codecov.io/gh/ShengSiangYin/lab-github-actions/graph/badge.svg?token=RYD5729XL5)](https://codecov.io/gh/ShengSiangYin/lab-github-actions)
 
 This is for NYU DevOps lab on using GitHub Actions with Redis for Continuous Integration
 
